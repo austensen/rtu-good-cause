@@ -1,0 +1,8 @@
+/data-raw/pdf-*/
+/data-raw/txt-*/
+/data-raw/downloaded-*.csv
+/.vscode
+/env
+.env
+.DS_Store
+.Rproj.user
